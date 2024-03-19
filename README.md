@@ -21,6 +21,9 @@
 - **Dumped raw data to ADLS**
   ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/3c28e9fc-b7f5-419d-8629-ff83730b1407)
 - **Transformed data in Azure Databricks**
+  Changed all the dates in all tables to "yyyy-MM-dd" format & dumped into silver layer container.
+  ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/8a99074e-c26a-4289-bc96-4d4f2e0425d8)
+  Made all the colum names in non pascal format, like Sales_id
   ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/633024ca-0026-4ef6-85c7-e5cbed7a4783)
 - **Creation of Synapse Views through pipeline & Stored Procedure**
   ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/1a3bbefc-866f-41f3-ac4c-47504d57dcbf)
