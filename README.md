@@ -16,6 +16,9 @@
   ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/633024ca-0026-4ef6-85c7-e5cbed7a4783)
 - **Creation of Synapse Views through pipeline & Stored Procedure**
   ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/1a3bbefc-866f-41f3-ac4c-47504d57dcbf)
+  ### Pipeline
+  ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/b717a4d5-430e-466c-8d4c-73c114432896)
+
   
 
 
