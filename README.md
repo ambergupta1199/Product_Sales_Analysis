@@ -7,4 +7,8 @@
 - **Analyzing the data:**: Created Synapse endpoint in Power BI to fetch the transformed data & created report on top of it.
 ### Power BI visualization dashboard
   ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/76ad1952-526f-49d6-93c5-00dc5b4f4147)
+## Project Snapshots
+-**Data ingestion**
+![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/9ca2a761-56df-42f3-a7e3-41944fc85fa2)
+
 
