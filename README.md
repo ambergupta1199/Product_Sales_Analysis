@@ -3,8 +3,8 @@
 ### Project Architeccture Explanation
 - **Data ingestion process**: Ingested raw data from on-prem SQL database using Self Hosted Integration Runtime method in Azure Data factory and then dumped data into ADLS Gen 2 storage account as a bronze layer data.
 - **Transformation**: Transformed the data in Azure Databricks using Pyspark & then dumped transformed cleaned data into ADLS Gen 2 storage account as gold layer data.
-- **Implementation of Business Logic:** Implemented Logic in Azure Synapse using SQL after loading data into Synapse from ADLS
-- **Analyzing the data:**: Created Synapse endpoint in Power BI to fetch the transformed data & created report on top of it.
+- **Analyzing the data**: Created Stored Procedure for creation of views and automate the views creation through pipeline in Synapse.
+- **Reporting:**: Created Synapse endpoint in Power BI to fetch the analyzed data & created report on top of it.
 ### Power BI visualization dashboard
   ![image](https://github.com/ambergupta1199/Product_Sales_Analysis/assets/79975210/76ad1952-526f-49d6-93c5-00dc5b4f4147)
 ## Project Snapshots
